@@ -1,0 +1,9 @@
+.illustration-container {
+  position: relative; /* Set to relative for absolute positioning of child elements */
+  width: 100vw; /* Cover the full viewport width */
+  height: 100vh; /* Cover the full viewport height */
+  display: flex; /* If needed for layout within the container */
+  flex-wrap: wrap; /* If needed for layout within the container */
+  justify-content: center; /* If needed for layout within the container */
+  gap: 20px; /* If needed for layout within the container */
+}
